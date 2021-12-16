@@ -13,7 +13,9 @@
 
 <div align="center"><h2>Pinned Repos</h2></div>
 <div align="center">
-  <a href="https://github.com/stefanskoricdev/patient-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanskoricdev&repo=patient-management-system&theme=merko&show_owner=true" alt="patient management system"/></a><a href="https://github.com/stefanskoricdev/wine-shop-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanskoricdev&repo=wine-shop-app&theme=merko&show_owner=true" alt="wine-shop-app"/></a><a href="https://github.com/stefanskoricdev/to-do-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanskoricdev&repo=to-do-app&theme=merko&show_owner=true" alt="to-do-app"/></a>
+  <a href="https://github.com/stefanskoricdev/patient-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanskoricdev&repo=patient-management-system&theme=merko&show_owner=true" alt="patient management system"/></a>
+  <a href="https://github.com/stefanskoricdev/wine-shop-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanskoricdev&repo=wine-shop-app&theme=merko&show_owner=true" alt="wine-shop-app"/></a>
+  <a href="https://github.com/stefanskoricdev/to-do-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanskoricdev&repo=to-do-app&theme=merko&show_owner=true" alt="to-do-app"/></a>
 </div>
 
 <div align="center"><h2>Github Stats</h2></div>
