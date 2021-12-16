@@ -12,7 +12,13 @@
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a></p>
 
 <div align="center"><h2>Pinned Repos</h2></div>
-<div align="center"><a href="https://github.com/stefanskoricdev/patient-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanskoricdev&repo=patient-management-system&theme=merko&show_owner=true" alt="patient management system"/></a><a href="https://github.com/stefanskoricdev/patient-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanskoricdev&repo=patient-management-system&theme=merko&show_owner=true" alt="patient management system"/></a><a href="https://github.com/stefanskoricdev/patient-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanskoricdev&repo=patient-management-system&theme=merko&show_owner=true" alt="patient management system"/></a></div>
+<div align="center">
+  <a href="https://github.com/stefanskoricdev/patient-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanskoricdev&repo=patient-management-system&theme=merko&show_owner=true" alt="patient management system"/></a>
+  
+  <a href="https://github.com/stefanskoricdev/wine-shop-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanskoricdev&repo=wine-shop-app&theme=merko&show_owner=true" alt="wine-shop-app"/></a>
+  
+  <a href="https://github.com/stefanskoricdev/to-do-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanskoricdev&repo=to-do-app&theme=merko&show_owner=true" alt="to-do-app"/></a>
+</div>
 
 <div align="center"><h2>Github Stats</h2></div>
 <div align="center"><a href="https://github.com/stefanskoricdev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stefanskoricdev&count_private=true&show_icons=true&theme=merko" alt="Stefan's GitHub stats" /></a></div>
