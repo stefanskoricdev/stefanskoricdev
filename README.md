@@ -12,7 +12,7 @@
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a></p>
 
 <div align="center"><h2>Pinned Repos</h2></div>
-<div align="center"><a href="https://github.com/stefanskoricdev/patient-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanskoricdev&repo=patient-management-system" alt="patient management system"/></a></div>
+<div align="center"><a href="https://github.com/stefanskoricdev/patient-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanskoricdev&repo=patient-management-system&theme=merko&show_owner" alt="patient management system"/></a></div>
 
 
 
