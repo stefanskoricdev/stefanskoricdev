@@ -10,7 +10,8 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a></p>
-[//]: # ( <div align="center"><h2>Pinned Repos</h2></div>
+
+<div align="center"><h2>Pinned Repos</h2></div>
 <div align="center">
   <a href="https://github.com/stefanskoricdev/patient_management_system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanskoricdev&repo=patient_management_system&theme=merko&show_owner=true" alt="patient management system"/></a>
   <a href="https://github.com/stefanskoricdev/wine-shop-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanskoricdev&repo=wine-shop-app&theme=merko&show_owner=true" alt="wine-shop-app"/></a>
@@ -19,5 +20,5 @@
 
 <div align="center"><h2>Github Stats</h2></div>
 <div align="center"><a href="https://github.com/stefanskoricdev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stefanskoricdev&count_private=true&show_icons=true&theme=merko" alt="Stefan's GitHub stats" /></a></div>
-<div align="center"><a href="https://github.com/stefanskoricdev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanskoricdev&layout=compact&theme=merko" alt="Top Langs stats" /></a></div>)
+<div align="center"><a href="https://github.com/stefanskoricdev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanskoricdev&layout=compact&theme=merko" alt="Top Langs stats" /></a></div>
 
